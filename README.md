@@ -1,7 +1,7 @@
 # ffEncodeGUI
 Simple wxWidgets GUI for FFmpeg, written in C++ using wxWidgets Cross-Platform GUI Library, inspired by Handbrake.
 <p align="center">
-   <img src=".git/usage.gif" width="500">
+   <img src=".github/usage.gif" width="500">
 </p>
 
 ## Features
